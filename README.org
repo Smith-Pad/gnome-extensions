@@ -3,8 +3,7 @@
 
 * Introduction:
 
-This repository contains GNOME shell extensions that are maintained
-by Smith-Pad.
+Smith-Pad's GNOME shell extensions for GNOME Desktop
 
 
 
