@@ -1,0 +1,13 @@
+#+title: gnome-extensions
+
+
+* Introduction:
+
+This repository contains GNOME shell extensions that are maintained
+by Smith-Pad.
+
+
+
+* List of GNOME Extensions:
+
+Later on...
