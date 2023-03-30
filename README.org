@@ -9,4 +9,4 @@ Smith-Pad's GNOME shell extensions for GNOME Desktop
 
 ** List of GNOME Extensions:
 
-Later on...
+*** Panel
